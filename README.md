@@ -9,7 +9,7 @@ The game uses simpleGUI library from CodeSkulptor, and should be run on codeskul
 ### How to run the game ###
 The live link for the project on codeskulptor is : [CodeSkulptor](http://www.codeskulptor.org/#user26_8ssL4caTKZiA5Wz.py)
 
-### NOTE:
+### NOTE ###
 The live link might get deleted, renamed or become unaccessible due to various reasons.
 + In such an occurrence, do the following:
 		* Copy the code from spaceshipgame.py
