@@ -12,8 +12,8 @@ The live link for the project on codeskulptor is : [CodeSkulptor](http://www.cod
 ### NOTE:
 The live link might get deleted, renamed or become unaccessible due to various reasons.
 + In such an occurrence, do the following:
-       * Copy the code from spaceshipgame.py
-       * Go to [CodeSkulptor](http://www.codeskulptor.org)
-       * Paste the code on the editor and press Play
+		* Copy the code from spaceshipgame.py
+		* Go to [CodeSkulptor](http://www.codeskulptor.org)
+		* Paste the code on the editor and press Play
 
 ### Code and Output feedback can be sent to [Akshay Gangwar](http://www.akshaygangwar.in/contactme.html)
